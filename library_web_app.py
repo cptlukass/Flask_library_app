@@ -5,7 +5,7 @@ from datetime import date
 
 app = Flask(__name__)
 
-U = "postgres"
+U = "user1"
 P = "password"
 H = "localhost"
 DB = "library_db"
